@@ -9,5 +9,5 @@ __pycache__/
 venv/
 
 # Local configuration and keys
-config*.ini
-*.pem
+config 1.ini
+.pem
