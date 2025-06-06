@@ -1,5 +1,5 @@
-+streamlit
-+pandas
-+openai
-+httpx
-+streamlit_option_menu
+streamlit
+pandas
+openai
+httpx
+streamlit_option_menu
